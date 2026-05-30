@@ -41,5 +41,3 @@ flutter test
 - Uygulama offline-first tasarımı benimser; daha ileri özellikler için backend entegrasyonu önerilir.
 - Kullanıcı parolaları şu an düz metin olarak saklanıyor; gerçek uygulamalar için şifreleme/hashed storage gereklidir.
 
-## Lisans
-Proje lisans bilgisi eklenmemiştir. Eğer bir lisans istiyorsan, belirt ve ekleyeyim.
